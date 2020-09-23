@@ -1,0 +1,2 @@
+command : ssh fsd319 uname -a
+result : Linux sdd-ctf-0-2020-2021 5.4.0-45-generic #49-Ubuntu SMP Wed Aug 26 13:38:52 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
